@@ -7,3 +7,4 @@ git push -u origin master
 
 in Python Panda ..
 type data.   (enter tab ) to see all attributes of the panda variable.
+use shift tab to see fucntion description
