@@ -1,5 +1,8 @@
 git push -u origin master
 
+ 119  git add --all
+  120  git commit
+  123  git push
 
 
 
