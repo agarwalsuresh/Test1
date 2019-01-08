@@ -4,6 +4,12 @@ git push -u origin master
   120  git commit
   123  git push
 
+this are the four comand u have to use.. 
+git clone <repo>
+git status   -- this will give file that has changed after cloning
+git add -all 
+git commit 'commnets'
+git push origin master 
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
 
