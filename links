@@ -20,3 +20,36 @@ datacamp.com
 free books for data science 
 https://cmdlinetips.com/2019/01/free-python-books-for-data-science/
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb
+
+
+Neural Networks
+
+
+both classification and regression is part of neural networks.
+
+neural network is same as deep learning
+
+eg: used in facial recigntion, tackle problem human can understand, use unstructured data
+
+musiclab.chromexperiment  ...spectogram  sound recognition
+
+google duplex 
+
+openAI ..too good to be released 
+
+monzo uses neural network for fraud prediction using google tensorflow 
+
+amelia (ipsoft)
+ another nural network bot
+
+clean energy .. google deepmind.. optimising windmill
+
+amazon 1 hr prime .. uses neural network
+
+holidays : airbnb for search uses neural network
+
+art : open source neural art
+
+music: creating new music
+
+
